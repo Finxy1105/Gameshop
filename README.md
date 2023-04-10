@@ -66,14 +66,16 @@ Install the required frontend packages
 
 ## Deployment
 
-To deploy this project, write this in backend in one terminal
+To deploy this project, open two terminals
+
+In the first one:
 
 ```bash
   cd backend
   python manage.py runserver
 ```
 
-And this in frontend in another terminal
+In the second one:
 
 ```bash
   cd frontend
